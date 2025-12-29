@@ -1,0 +1,7 @@
+Epoch 1 batch 1 — loss 2.338962 — approx bytes 1024.00 KB
+Epoch 1 runtime: 0.041s
+Epoch 2 batch 1 — loss 2.265319 — approx bytes 1024.00 KB
+Epoch 2 runtime: 0.036s
+Epoch 3 batch 1 — loss 2.289113 — approx bytes 1024.00 KB
+Epoch 3 runtime: 0.038s
+Total runtime: 0.117s

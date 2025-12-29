@@ -1,0 +1,7 @@
+num_clients: 2
+num_fog: 1
+batch_size: 16
+dataset: cifar10
+batch_size: 32
+epochs: 3
+device: cpu       # or cuda if available
